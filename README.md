@@ -1,0 +1,1 @@
+# theme-changer-static-render
